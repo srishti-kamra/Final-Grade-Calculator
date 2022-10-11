@@ -1,3 +1,7 @@
+//ContentView.swift
+//Final Grade Calculator
+// Srishti Kamra
+
 import SwiftUI
 
 struct ContentView: View {
